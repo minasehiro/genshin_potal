@@ -1,0 +1,644 @@
+{
+    "characterPriorityStats": [
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        },
+        {
+            "avatarId": "10000001",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000002",
+            "priorityStats": [
+                "defensePercent",
+                "hpPercent",
+                "elementMastery"
+            ]
+        }
+    ]
+}
