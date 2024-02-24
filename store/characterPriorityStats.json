@@ -148,7 +148,7 @@
             "avatarId": "10000030",
             "characterName": "鐘離",
             "priorityStats": [
-                "attackPercent",
+                "hpPercent",
                 "criticalRate",
                 "criticalDamage"
             ]
