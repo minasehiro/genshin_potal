@@ -1,7 +1,8 @@
 {
     "characterPriorityStats": [
         {
-            "avatarId": "10000001",
+            "avatarId": "10000002",
+            "characterName": "神里綾華",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -9,15 +10,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000003",
+            "characterName": "ジン",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -25,15 +19,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000005",
+            "characterName": "空[風元素]",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -41,15 +28,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000006",
+            "characterName": "リサ",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -57,15 +37,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000007",
+            "characterName": "蛍[風元素]",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -73,15 +46,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000014",
+            "characterName": "バーバラ",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -89,15 +55,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000015",
+            "characterName": "ガイア",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -105,15 +64,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000016",
+            "characterName": "ディルック",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -121,15 +73,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000020",
+            "characterName": "レザー",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -137,15 +82,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000021",
+            "characterName": "アンバー",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -153,15 +91,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000022",
+            "characterName": "ウェンティ",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -169,15 +100,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000023",
+            "characterName": "香菱",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -185,15 +109,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000024",
+            "characterName": "北斗",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -201,15 +118,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000025",
+            "characterName": "行秋",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -217,15 +127,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000026",
+            "characterName": "魈",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -233,15 +136,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000029",
+            "characterName": "クレー",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -249,15 +145,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000030",
+            "characterName": "鐘離",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -265,15 +154,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000031",
+            "characterName": "フィッシュル",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -281,15 +163,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000032",
+            "characterName": "ベネット",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -297,15 +172,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000033",
+            "characterName": "タルタリヤ",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -313,15 +181,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000034",
+            "characterName": "ノエル",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -329,15 +190,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000035",
+            "characterName": "七七",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -345,15 +199,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000036",
+            "characterName": "重雲",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -361,15 +208,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000037",
+            "characterName": "甘雨",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -377,15 +217,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000038",
+            "characterName": "アルベド",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -393,15 +226,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000039",
+            "characterName": "ディオナ",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -409,15 +235,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000041",
+            "characterName": "モナ",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -425,15 +244,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000042",
+            "characterName": "刻晴",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -441,15 +253,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000043",
+            "characterName": "スクロース",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -457,15 +262,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000044",
+            "characterName": "辛炎",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -473,15 +271,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000045",
+            "characterName": "ロサリア",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -489,15 +280,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000046",
+            "characterName": "胡桃",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -505,15 +289,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000047",
+            "characterName": "楓原万葉",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -521,15 +298,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000048",
+            "characterName": "煙緋",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -537,15 +307,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000049",
+            "characterName": "宵宮",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -553,15 +316,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000050",
+            "characterName": "トーマ",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -569,15 +325,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000051",
+            "characterName": "エウルア",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -585,15 +334,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000052",
+            "characterName": "雷電将軍",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -601,15 +343,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000053",
+            "characterName": "早柚",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -617,15 +352,8 @@
             ]
         },
         {
-            "avatarId": "10000002",
-            "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
-            ]
-        },
-        {
-            "avatarId": "10000001",
+            "avatarId": "10000054",
+            "characterName": "珊瑚宮心海",
             "priorityStats": [
                 "attackPercent",
                 "criticalRate",
@@ -633,11 +361,498 @@
             ]
         },
         {
-            "avatarId": "10000002",
+            "avatarId": "10000055",
+            "characterName": "ゴロー",
             "priorityStats": [
-                "defensePercent",
-                "hpPercent",
-                "elementMastery"
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000056",
+            "characterName": "九条裟羅",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000057",
+            "characterName": "荒瀧一斗",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000058",
+            "characterName": "八重神子",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000059",
+            "characterName": "鹿野院平蔵",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000060",
+            "characterName": "夜蘭",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000061",
+            "characterName": "綺良々",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000062",
+            "characterName": "アーロイ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000063",
+            "characterName": "申鶴",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000064",
+            "characterName": "雲菫",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000065",
+            "characterName": "久岐忍",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000066",
+            "characterName": "神里綾人",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000067",
+            "characterName": "コレイ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000068",
+            "characterName": "ドリー",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000069",
+            "characterName": "ティナリ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000070",
+            "characterName": "ニィロウ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000071",
+            "characterName": "セノ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000072",
+            "characterName": "キャンディス",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000073",
+            "characterName": "ナヒーダ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000074",
+            "characterName": "レイラ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000075",
+            "characterName": "放浪者",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000076",
+            "characterName": "ファルザン",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000077",
+            "characterName": "ヨォーヨ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000078",
+            "characterName": "アルハイゼン",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000079",
+            "characterName": "ディシア",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000080",
+            "characterName": "ミカ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000081",
+            "characterName": "カーヴェ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000082",
+            "characterName": "白朮",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000083",
+            "characterName": "リネット",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000084",
+            "characterName": "リネ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000085",
+            "characterName": "フレミネ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000086",
+            "characterName": "リオセスり",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000087",
+            "characterName": "ヌヴィレット",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000088",
+            "characterName": "シャルロット",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000089",
+            "characterName": "フリーナ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000090",
+            "characterName": "シュヴルーズ",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000091",
+            "characterName": "ナヴィア",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000092",
+            "characterName": "嘉明",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000093",
+            "characterName": "閑雲",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000005-501",
+            "characterName": "空[元素なし]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000005-502",
+            "characterName": "",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000005-503",
+            "characterName": "空[水元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000005-504",
+            "characterName": "空[風元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000005-505",
+            "characterName": "",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000005-506",
+            "characterName": "空[岩元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000005-507",
+            "characterName": "空[雷元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000005-508",
+            "characterName": "空[草元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000007-701",
+            "characterName": "蛍[元素なし]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000007-702",
+            "characterName": "",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000007-703",
+            "characterName": "蛍[水元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000007-704",
+            "characterName": "蛍[風元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000007-705",
+            "characterName": "",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000007-706",
+            "characterName": "蛍[岩元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000007-707",
+            "characterName": "蛍[雷元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
+            ]
+        },
+        {
+            "avatarId": "10000007-708",
+            "characterName": "蛍[草元素]",
+            "priorityStats": [
+                "attackPercent",
+                "criticalRate",
+                "criticalDamage"
             ]
         }
     ]
