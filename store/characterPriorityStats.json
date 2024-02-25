@@ -162,7 +162,7 @@
     "10000034": {
         "characterName": "ノエル",
         "priorityStats": [
-            "attackPercent",
+            "defencePercent",
             "criticalRate",
             "criticalDamage"
         ]
@@ -250,7 +250,7 @@
     "10000046": {
         "characterName": "胡桃",
         "priorityStats": [
-            "attackPercent",
+            "hpPercent",
             "criticalRate",
             "criticalDamage"
         ]
@@ -258,7 +258,7 @@
     "10000047": {
         "characterName": "楓原万葉",
         "priorityStats": [
-            "attackPercent",
+            "elementalMastery",
             "criticalRate",
             "criticalDamage"
         ]
@@ -338,7 +338,7 @@
     "10000057": {
         "characterName": "荒瀧一斗",
         "priorityStats": [
-            "attackPercent",
+            "defencePercent",
             "criticalRate",
             "criticalDamage"
         ]
@@ -362,7 +362,7 @@
     "10000060": {
         "characterName": "夜蘭",
         "priorityStats": [
-            "attackPercent",
+            "hpPercent",
             "criticalRate",
             "criticalDamage"
         ]
@@ -466,7 +466,7 @@
     "10000073": {
         "characterName": "ナヒーダ",
         "priorityStats": [
-            "attackPercent",
+            "elementalMastery",
             "criticalRate",
             "criticalDamage"
         ]
