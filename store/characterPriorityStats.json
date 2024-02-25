@@ -578,7 +578,7 @@
     "10000087": {
         "characterName": "ヌヴィレット",
         "priorityStats": [
-            "attackPercent",
+            "hpPercent",
             "criticalRate",
             "criticalDamage"
         ]
